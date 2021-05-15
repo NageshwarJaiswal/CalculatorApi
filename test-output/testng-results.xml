@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-15T10:26:16 IST" name="Default suite" finished-at="2021-05-15T10:26:16 IST" duration-ms="50">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="AdditionTestCase.AdditionWithOnePositiveOneNegative()[pri:2, instance:QualityKioskTraining.CalculatorDemo.AdditionTestCase@1d082e88]" name="AdditionWithOnePositiveOneNegative" class="QualityKioskTraining.CalculatorDemo.AdditionTestCase"/>
+        <method signature="AdditionTestCase.TestAdditionWithPositiveNumber()[pri:1, instance:QualityKioskTraining.CalculatorDemo.AdditionTestCase@1d082e88]" name="TestAdditionWithPositiveNumber" class="QualityKioskTraining.CalculatorDemo.AdditionTestCase"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test started-at="2021-05-15T10:26:16 IST" name="Default test" finished-at="2021-05-15T10:26:16 IST" duration-ms="50">
+      <class name="QualityKioskTraining.CalculatorDemo.AdditionTestCase">
+        <test-method is-config="true" signature="init()[pri:0, instance:QualityKioskTraining.CalculatorDemo.AdditionTestCase@1d082e88]" started-at="2021-05-15T10:26:16 IST" name="init" finished-at="2021-05-15T10:26:16 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TestAdditionWithPositiveNumber()[pri:1, instance:QualityKioskTraining.CalculatorDemo.AdditionTestCase@1d082e88]" started-at="2021-05-15T10:26:16 IST" name="TestAdditionWithPositiveNumber" finished-at="2021-05-15T10:26:16 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAdditionWithPositiveNumber -->
+        <test-method signature="AdditionWithOnePositiveOneNegative()[pri:2, instance:QualityKioskTraining.CalculatorDemo.AdditionTestCase@1d082e88]" started-at="2021-05-15T10:26:16 IST" name="AdditionWithOnePositiveOneNegative" finished-at="2021-05-15T10:26:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdditionWithOnePositiveOneNegative -->
+        <test-method signature="TestAdditionWithZeroNumber()[pri:3, instance:QualityKioskTraining.CalculatorDemo.AdditionTestCase@1d082e88]" started-at="2021-05-15T10:26:16 IST" name="TestAdditionWithZeroNumber" finished-at="2021-05-15T10:26:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAdditionWithZeroNumber -->
+      </class> <!-- QualityKioskTraining.CalculatorDemo.AdditionTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
